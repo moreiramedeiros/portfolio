@@ -1,18 +1,14 @@
 # Meu Nome é Isaac Moreira
----
+
 ## Sobre mim
----
 Sou formado em Ciências de Computação. Tenho conhecimento na área teste de software/QA. Meus conhecimentos e habilidades:
 * Noções de modelagem de casos de testes e execução manual de testes em sites web;
 * Noções de testes automatizados com Cypress e Selenium;
 * Noções de metodologia ágil Scrum.
----
-## Meu Projetos 
----
-### Portifólio 1. Modelo simples de elaboração de Casos de Testes dos projetos
-* Apresentação dos casos de testes (.ppt): [**clique aqui**](https://scriptng.com/practise-site/selenium-form-automation-practice/)
----
-### Portifólio 2. Testes de elementos variados de uma página web
+
+## Meu Projetos / Portifólio
+
+### Portifólio 1. Testes de elementos variados de uma página web
 #### Projeto 1 - Teste de formulário e elementos de um site
 * Site testado: https://scriptng.com/practise-site/selenium-form-automation-practice/
 * Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
@@ -24,8 +20,8 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 * Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
 * Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
 * Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
----
-### Portifólio 3. Testes em sistemas web
+
+### Portifólio 2. Testes em sistemas web
 
 #### Projeto 1 – Facilita Tech (site de vagas de trabalho)
 * Protótipo tirado do curso “Do Requisito à Execução de Testes – Letícia Maine”
@@ -61,7 +57,8 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 * Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
 * Plano de Testes (.doc): [**Clique Aqui**]( url )
 
-  
+### Modelo simples de elaboração de Casos de Testes dos projetos
+* Apresentação dos casos de testes (.ppt): [**clique aqui**](https://scriptng.com/practise-site/selenium-form-automation-practice/)  
 
   
 
