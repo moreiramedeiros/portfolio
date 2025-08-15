@@ -5,7 +5,7 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 * Noções de modelagem de casos de testes e execução manual de testes em sites web;
 * Noções de testes automatizados com Cypress e Selenium;
 * Noções de metodologia ágil Scrum.
-* Noções de metodologia ágil Scrum.
+* Noções de teste de API com Cypress.
 
 ## Meu Projetos / Portifólio
 
