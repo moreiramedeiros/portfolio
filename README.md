@@ -16,7 +16,6 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 * Apresentação dos casos de testes (.ppt): [**Clique Aqui**](https://demoqa.com/)
 * Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
 * Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
-* Plano de Testes (.doc): [**Clique Aqui**]( url )
 
 ## 2) Testes em Sistemas Web 
 #### Projeto 1 – Facilita Tech (site de vagas de trabalho)
