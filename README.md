@@ -8,7 +8,7 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 * Noções de teste de API com Cypress.
 
 ## Meu Projetos / Portfolio
-
+## 1) Testes em Sistemas Web 
 #### Projeto 1 – Facilita Tech (site de vagas de trabalho)
 * Protótipo tirado do curso “Do Requisito à Execução de Testes – Letícia Maine”
 * Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
@@ -43,7 +43,40 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 * Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
 * Plano de Testes (.doc): [**Clique Aqui**]( url )
 
-### Modelo simples de elaboração de Casos de Testes dos projetos
+#### Projeto 4 – E-Commerce Swag Labs
+*	Site testado: https://www.saucedemo.com/
+* Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
+* Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
+* Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
+* Plano de Testes (.doc): [**Clique Aqui**]( url )
+
+#### Projeto 5 – E-Commerce Product Store
+* Site testado:https://www.demoblaze.com/index.html
+* Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
+* Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
+* Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
+* Plano de Testes (.doc): [**Clique Aqui**]( url )
+  
+### 2) Testes de API 
+
+### 3) Testes de elementos diversos de uma página web
+
+#### Projeto 1 – Teste de formulário e elementos de um site
+* Site testado:[https://www.demoblaze.com/index.html](https://scriptng.com/practise-site/selenium-form-automation-practice/)
+* Apresentação dos casos de testes (.ppt): [**Clique Aqui**](https://scriptng.com/practise-site/selenium-form-automation-practice/)
+* Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
+* Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
+* Plano de Testes (.doc): [**Clique Aqui**]( url )
+
+#### Projeto 2 – Teste de formulário e elementos de um site
+* Site testado: https://demoqa.com/
+* Apresentação dos casos de testes (.ppt): [**Clique Aqui**](https://demoqa.com/)
+* Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
+* Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
+* Plano de Testes (.doc): [**Clique Aqui**]( url )
+
+
+### 4) Modelo simples de elaboração de Casos de Testes dos projetos
 * Apresentação dos casos de testes (.ppt): [**clique aqui**](https://scriptng.com/practise-site/selenium-form-automation-practice/)  
 
   
