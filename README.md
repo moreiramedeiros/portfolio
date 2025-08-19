@@ -43,20 +43,6 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 * Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
 * Plano de Testes (.doc): [**Clique Aqui**]( url )
 
-#### Projeto 4 – E-Commerce Swag Labs
-*	Site testado: https://www.saucedemo.com/
-* Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
-* Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
-* Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
-* Plano de Testes (.doc): [**Clique Aqui**]( url )
-
-#### Projeto 5 – E-Commerce Product Store
-* Site testado:https://www.demoblaze.com/index.html
-* Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
-* Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
-* Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
-* Plano de Testes (.doc): [**Clique Aqui**]( url )
-  
 ### 2) Testes de API 
 
 ### 3) Testes de elementos diversos de uma página web
