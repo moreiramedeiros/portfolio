@@ -32,7 +32,7 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 #### Projeto 4 – E-Commerce Swag Labs
 *	Site testado: https://www.saucedemo.com/
 * Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url )
-* Planilha de execução dos testes (.xlsx): [**Clique Aqui**]( url )
+* Planilha de execução dos testes (.xlsx): [**Clique Aqui**](https://docs.google.com/spreadsheets/d/1AxU2xTf1VBnjRf_nqnMSh4Eu7hpwKG6F/edit?usp=sharing&ouid=101102970780928439244&rtpof=true&sd=true)
 * Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url )
 * Plano de Testes (.doc): [**Clique Aqui**]( url )
 
