@@ -12,12 +12,10 @@ Sou formado em Ciências de Computação. Tenho conhecimento na área teste de s
 
 #### Projeto 1 – E-Commerce Swag Labs
 *	Site testado: https://www.saucedemo.com/
-* Apresentação dos casos de testes (.ppt): [**Clique Aqui**]( url ){:target="_blank"}
-* Planilha de execução dos testes (.xlsx): [**Clique Aqui**](https://docs.google.com/spreadsheets/d/1AxU2xTf1VBnjRf_nqnMSh4Eu7hpwKG6F/edit?usp=sharing&ouid=101102970780928439244&rtpof=true&sd=true){:target="_blank"}
-* Códigos dos testes automatizados em Cypress (GitHub): [**Clique Aqui**]( url ){:target="_blank"}
-* Plano de Testes (.doc): [**Clique Aqui**]( url ){:target="_blank"}
-
+* Apresentação dos casos de testes (.ppt): <a href="#"  target="blank">Clique Aqui</a>
+* Planilha de execução dos testes (.xlsx): <a href="https://docs.google.com/spreadsheets/d/1AxU2xTf1VBnjRf_nqnMSh4Eu7hpwKG6F/edit?usp=sharing&ouid=101102970780928439244&rtpof=true&sd=true"  target="blank">Clique Aqui</a>  
+* Códigos dos testes automatizados em Cypress (GitHub): <a href="#"  target="blank">Clique Aqui</a>
+* Plano de Testes (.doc): <a href="#"  target="blank">Clique Aqui</a>
 ### 2) Testes de API   
 
   
-
